@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66132f867899b104aba2e2c9283078c7, type: 3}
+  m_Name: W_gestion_des_stocks
+  m_EditorClassIdentifier: Assembly-CSharp::CardWorks
+  id: 10
+  CardName: Gestion de stock
+  description: "Cumulable avec Garde rapproch\xE9e"
+  CardAspect: {fileID: 2100000, guid: 504af7f0e7024084381d389cd00d81f5, type: 2}
+  CardIllustration: {fileID: 2100000, guid: 4ff91f353d4402243bca7159c006cd52, type: 2}
+  IllustratorName: 'art : inconnu'
+  CardFamily: 1
+  goldGain: 5
+  numberOfTurn: 4

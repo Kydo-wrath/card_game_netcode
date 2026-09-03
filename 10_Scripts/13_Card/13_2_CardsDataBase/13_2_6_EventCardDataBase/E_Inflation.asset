@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0106b19746c07f04bba7f84f4d768c85, type: 3}
+  m_Name: E_Inflation
+  m_EditorClassIdentifier: Assembly-CSharp::CardEvent
+  id: 58
+  CardName: Inflation
+  description: "De nouvelles taxes et des d\xE9cisions qui vous d\xE9passent font
+    monter les prix dans la ville. Vous devrez payer 1 pi\xE8ce  de plus pour boire
+    un coup, payer une amende ou payer votre chambre \xE0 la fin de la partie."
+  CardAspect: {fileID: 2100000, guid: 57b12dec3d91cd74590a159e28ee82dc, type: 2}
+  CardIllustration: {fileID: 2100000, guid: 13d2cd3311435c4409db42da762d8a51, type: 2}
+  IllustratorName: 'art : inconnu'
+  CardFamily: 5

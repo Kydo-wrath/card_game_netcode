@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0ed6cb118e55974e997e0ac5fbe9722, type: 3}
+  m_Name: O_ADD
+  m_EditorClassIdentifier: Assembly-CSharp::CardObject
+  id: 45
+  CardName: Arme de dissuasion
+  description: "Si vous \xEAtes cibl\xE9 par une carte ruse, d\xE9faussez cette carte
+    engag\xE9e, annulez la carte ruse et prenez jusque 4 pi\xE8ces au joueur qui
+    a jou\xE9 cette carte ruse"
+  CardAspect: {fileID: 2100000, guid: bfe6a9f21481a384d9e39cd1e64a06e2, type: 2}
+  CardIllustration: {fileID: 2100000, guid: 13d2cd3311435c4409db42da762d8a51, type: 2}
+  IllustratorName: 'art : inconnu'
+  CardFamily: 6
+  Cost: 4

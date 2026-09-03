@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37f2193a4d706fe4994d1ac5f71734bc, type: 3}
+  m_Name: C_PLFDM
+  m_EditorClassIdentifier: Assembly-CSharp::CrimeCards
+  id: 24
+  CardName: "Proph\xE9tiser la fin du monde"
+  description: "Sans \xEAtre tr\xE8s lucratif, vous vous assurez au moins que la
+    garde viendra mettre son nez dans les affaires de la taverne."
+  CardAspect: {fileID: 2100000, guid: 5b676c42b33434344a3a9c00615b47fb, type: 2}
+  CardIllustration: {fileID: 2100000, guid: 13d2cd3311435c4409db42da762d8a51, type: 2}
+  IllustratorName: 'art : inconnu'
+  CardFamily: 3
+  goldGain: 3
+  awarnessLevel: 6
